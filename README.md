@@ -4,6 +4,8 @@
 
 ngInfiniteScroll is a directive for [AngularJS](http://angularjs.org/) to evaluate an expression when the bottom of the directive's element approaches the bottom of the browser window, which can be used to implement infinite scrolling.
 
+官方的好像是把滚动写死在了window上面，所以如果你在手机上使用的话，只能是顶部固定了，感觉有点局限，我修改了，是可以使用的回头我放上来。
+
 Demos
 -----
 
